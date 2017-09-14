@@ -1,6 +1,6 @@
 # Machine Learning for early detection of Parkinson's disease from RNA Sequencing data
 
-This project is a part of Galvanize Capstone in collaboration with Simpatica Medicice, a artificial intelligence driven precision medicine startup. Please read project presentation.pdf for more details about the project.
+This project is a part of Galvanize Data Science Immersive Capstone in collaboration with Simpatica Medicice, an artificial intelligence driven precision medicine startup. Please read project presentation.pdf for more details about the project.
 
 Parkinson’s disease is the disease of the nervous system which causes tremor, stiffness and slows down the movement. Although the disease cannot be cured, if it is detected early, then some of its symptoms can be alleviated. The next generation sequencing technology has made it possible to sequence the entire genome of a human being. One of the sequencing technology, called RNA sequencing also makes it possible to measure which genes are being expressed in a cell. I worked on labelled data for Parkinson’s disease and the objective is to detect Parkinson’s disease in a patient given their RNA sequencing data.
 
